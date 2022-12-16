@@ -180,23 +180,6 @@ Puedes ver todos los metodos de la API descargando la [colección de POSTMAN](ht
 
 <p align="right">(<a href="#readme-top">volver a arriba</a>)</p>
 
-
-<!-- CONTACT -->
-## Contacto
-
-* Mercedes Salcedo - mercedes.salcedo1989@gmail.com
-* Franco Livelli - franco.livelli@gmail.com
-* Mikelzon Sarabia - Mikelzonsarabia@gmail.com
-* Alberto Carrillo de Comas - albertokarri@gmail.com
-* Diego Siboldi - die.siboldi@gmail.com
-* Julian Pacheco - jpjulianpacheco@gmail.com
-
-Link del proyecto: [https://github.com/Merssith/Librando-BACK](https://github.com/Merssith/Librando-BACK)
-
-<p align="right">(<a href="#readme-top">volver a arriba</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Agradecimientos
 
@@ -207,10 +190,3 @@ Link del proyecto: [https://github.com/Merssith/Librando-BACK](https://github.co
 
 <p align="right">(<a href="#readme-top">volver a arriba</a>)</p>
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Merssith/Librando-BACK.svg?style=for-the-badge
-[contributors-url]: https://github.com/Merssith/Librando-BACK/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/Merssith/Librando-BACK.svg?style=for-the-badge
-[issues-url]: https://github.com/Merssith/Librando-BACK/issues
