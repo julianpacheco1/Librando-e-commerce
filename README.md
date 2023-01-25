@@ -6,6 +6,7 @@
 
 ## STACK TECNOLOGICO
 
+### JavaScript
 ### React
 ### Redux
 ### Node.js
