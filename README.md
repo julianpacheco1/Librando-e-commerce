@@ -6,11 +6,11 @@
 
 #STACK TECNOLOGIAS
 
-##- React
-##- Redux
-##- Node.js
-##- PostgreSQL
-##- Express
-##- Sequelize
-##- Postman
-##- Trello
+### React
+### Redux
+### Node.js
+### PostgreSQL
+### Express
+### Sequelize
+### Postman
+### Trello
