@@ -4,7 +4,7 @@
 ## Cada módulo cuenta con su respectivo README. ¡Leelo!
 
 
-#STACK TECNOLOGIAS
+## STACK TECNOLOGICO
 
 ### React
 ### Redux
