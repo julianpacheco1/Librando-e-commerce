@@ -79,7 +79,7 @@ Este FrontEnd esta conectado a un Backend que es necesario para poder operar
 
 Deberas complir los siguientes pre-requisitos para poder utilizar este proyecto.
 
-Levanta el [Backend](https://github.com/Merssith/Librando-BACK)
+Levanta el [Backend](https://github.com/julianpacheco1/Librando/blob/main/Back/README.md)
 
 ### Instalación
 
