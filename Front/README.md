@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Merssith/Librando-FRONT">
+  <a href="https://github.com/julianpacheco1/Librando/tree/main/Front">
     <img src="public/logo.png" alt="Logo" width="300">
   </a>
 
@@ -14,7 +14,7 @@
   <p align="center">
     Proyecto de ecommerce para bootcamp Plataforma 5
     <br />
-    <a href="https://github.com/Merssith/Librando-FRONT"><strong>Explora nuestro proyecto »</strong></a>
+    <a href="https://github.com/julianpacheco1/Librando/tree/main/Front"><strong>Explora nuestro proyecto »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Merssith/Librando-FRONT/issues">Reportar un bug</a>
