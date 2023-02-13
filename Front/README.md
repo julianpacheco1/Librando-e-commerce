@@ -17,9 +17,9 @@
     <a href="https://github.com/julianpacheco1/Librando/tree/main/Front"><strong>Explora nuestro proyecto »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Merssith/Librando-FRONT/issues">Reportar un bug</a>
+    <a href="https://www.linkedin.com/in/julian-pacheco-/">Reportar un bug</a>
     ·
-    <a href="https://github.com/Merssith/Librando-FRONT/issues">Solicitar una feature</a>
+    <a href="https://www.linkedin.com/in/julian-pacheco-/">Solicitar una feature</a>
   </p>
 </div>
 
