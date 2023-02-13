@@ -103,7 +103,7 @@ Deberas complir los siguientes pre-requisitos para poder utilizar este proyecto
 
 1. Clona el repositorio en tu local
    ```sh
-   git clone https://github.com/Merssith/Librando-BACK.git
+   git clone https://github.com/julianpacheco1/Librando.git
    ```
 2. Instala las dependencias NPM 
    ```sh
