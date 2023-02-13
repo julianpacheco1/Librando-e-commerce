@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Merssith/Librando-BACK">
+  <a href="https://www.linkedin.com/in/julian-pacheco-/">
     <img src="images/logo.png" alt="Logo" width="300">
   </a>
 
@@ -16,12 +16,12 @@
   <p align="center">
     Proyecto de ecommerce para bootcamp Plataforma 5
     <br />
-    <a href="https://github.com/Merssith/Librando-BACK"><strong>Explora nuestro proyecto »</strong></a>
+    <a href="https://github.com/Merssith/Librando-BACK"><strong>Explora el proyecto »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Merssith/Librando-BACK/issues">Reportar un bug</a>
+    <a href="https://www.linkedin.com/in/julian-pacheco-/">Reportar un bug</a>
     ·
-    <a href="https://github.com/Merssith/Librando-BACK/issues">Solicitar una feature</a>
+    <a href="https://www.linkedin.com/in/julian-pacheco-/">Solicitar una feature</a>
   </p>
 </div>
 
