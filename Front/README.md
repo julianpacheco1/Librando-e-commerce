@@ -85,7 +85,7 @@ Levanta el [Backend](https://github.com/julianpacheco1/Librando/blob/main/Back/R
 
 1. Clona el repositorio en tu local
    ```sh
-   git clone https://github.com/Merssith/Librando-FRONT.git
+   git clone https://github.com/julianpacheco1/Librando.git
    ```
 2. Instala las dependencias NPM
    ```sh
