@@ -16,7 +16,7 @@
   <p align="center">
     Proyecto de ecommerce para bootcamp Plataforma 5
     <br />
-    <a href="https://github.com/Merssith/Librando-BACK"><strong>Explora el proyecto »</strong></a>
+    <a href="https://github.com/julianpacheco1/Librando/tree/main/Back"><strong>Explora el proyecto »</strong></a>
     <br />
     <br />
     <a href="https://www.linkedin.com/in/julian-pacheco-/">Reportar un bug</a>
