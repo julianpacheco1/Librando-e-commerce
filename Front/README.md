@@ -127,33 +127,3 @@ Levanta el [Backend](https://github.com/Merssith/Librando-BACK)
 
 <p align="right">(<a href="#readme-top">volver a arriba</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## Contribuye
-
-<p>Las contribuciones de la comunidad Dev nos ayudan a aprender, inspirarnos y crear cosas nuevas! Todas las contrinuciones seran muy bienvenidas!</p>
-<p>Si tienes algunas sugerencia para mejorar nuestro proyecto, por favor forkea el repositorio y crea un pull request.</p>
-<p>Muchas gracias!</p>
-
-1. Forkea el repositorio
-2. Crea tu branch (`git checkout -b feature/MiFeature`)
-3. Comitea tus cambios (`git commit -m 'Agrego MiFeature'`)
-4. Pushea a la branch (`git push origin feature/MiFeature`)
-5. Abri un pull request
-
-
-<p align="right">(<a href="#readme-top">volver a arriba</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Agradecimientos
-
-- A Pablo Burgos
-- A todo el staff de Plataforma 5
-- A los jurados
-- A nuestros compañeros de bootcamp
-
-<p align="right">(<a href="#readme-top">volver a arriba</a>)</p>
-
-
-
